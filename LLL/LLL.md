@@ -2,12 +2,10 @@
 >若将结构体（高级数据类型/自定义类型）放置在数组中，将会形成结构体数组（更高级）；**
 
 >**字符串与字符数组**
-
-
->字符串
->字符串存储长度=字符串有效长度＋1
+两者仅相差结尾的一个单位元素‘/0’
+>字符数组存储长度=字符串有效长度＋1
 >字符数组以‘\0’结尾
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NzY1MTEwLDcyMjMyMDQyMywtMTI5MT
-IwMjQwN119
+eyJoaXN0b3J5IjpbMTAyMDAyMzk4OSw0NTc3NjUxMTAsNzIyMz
+IwNDIzLC0xMjkxMjAyNDA3XX0=
 -->
