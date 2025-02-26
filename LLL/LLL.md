@@ -5,7 +5,11 @@
 两者仅相差结尾的一个单位元素‘/0’
 >字符数组存储长度=字符串有效长度＋**1**
 >字符数组以‘/0’结尾
+ 
+ >**一维数组的定义**
+ >int a[n][m];
+ >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjQ3MTgxNiw0NTc3NjUxMTAsNzIyMz
+eyJoaXN0b3J5IjpbMTMxMjAyMzY5Nyw0NTc3NjUxMTAsNzIyMz
 IwNDIzLC0xMjkxMjAyNDA3XX0=
 -->
