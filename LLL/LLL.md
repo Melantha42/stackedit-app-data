@@ -3,9 +3,9 @@
 
 >**字符串与字符数组**
 两者仅相差结尾的一个单位元素‘/0’
->字符数组存储长度=字符串有效长度＋1
->字符数组以‘\0’结尾
+>字符数组存储长度=字符串有效长度＋**1**
+>字符数组以‘/0’结尾
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDAyMzk4OSw0NTc3NjUxMTAsNzIyMz
+eyJoaXN0b3J5IjpbMTg0NjQ3MTgxNiw0NTc3NjUxMTAsNzIyMz
 IwNDIzLC0xMjkxMjAyNDA3XX0=
 -->
