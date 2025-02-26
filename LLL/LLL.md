@@ -7,9 +7,9 @@
 >字符数组以‘/0’结尾
  
  >**一维数组的定义**
- >int a[n][m];
+ >
  >
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjAyMzY5Nyw0NTc3NjUxMTAsNzIyMz
+eyJoaXN0b3J5IjpbLTY1MTkzMjM4OSw0NTc3NjUxMTAsNzIyMz
 IwNDIzLC0xMjkxMjAyNDA3XX0=
 -->
