@@ -1,4 +1,4 @@
->**数组：高级数据类型——*将同一种数据类型进行集合*；
+>**数组：高级数据类型——*可将同一种数据类型进行集合*；
 >若将结构体（高级数据类型/自定义类型）放置在数组中，将会形成结构体数组（更高级）；**
 
 >**字符串与字符数组**
@@ -10,8 +10,12 @@
  >注意下标从0开始；
  >数组的使用一定与**for循环**绑定
 
+>**二维数组**
+>采用行储存，注意使用时下标不可越界
+>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA4NDE3NDgsNDU3NzY1MTEwLDcyMj
-MyMDQyMywtMTI5MTIwMjQwN119
+eyJoaXN0b3J5IjpbMTE5MzMxNzI0NiwtMTgxMDg0MTc0OCw0NT
+c3NjUxMTAsNzIyMzIwNDIzLC0xMjkxMjAyNDA3XX0=
 -->
