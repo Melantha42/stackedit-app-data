@@ -13,10 +13,11 @@
 >也可求整体的和、平均值、MAX、MIN、相对下标
 
 >**字符串**
->字符串是特殊的一维数组
+>字符串是特殊的一维数组，组成其的元素是字符；
+>yi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDQ4NTc2MSwtMTgxMDg0MTc0OCw0NT
+eyJoaXN0b3J5IjpbMTgxMDQ0MDczOSwtMTgxMDg0MTc0OCw0NT
 c3NjUxMTAsNzIyMzIwNDIzLC0xMjkxMjAyNDA3XX0=
 -->
