@@ -13,11 +13,12 @@
 >也可求整体的和、平均值、MAX、MIN、相对下标
 
 >**字符串**
->字符串是特殊的一维数组，组成其的元素是字符；
->yi
+>字符串是特殊的一维数组，组成其的每一个元素都是字符类型；
+>字符串以‘\0’结尾，标记字符串的结束；
+>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDQ0MDczOSwtMTgxMDg0MTc0OCw0NT
+eyJoaXN0b3J5IjpbLTg0MjM2ODA5MiwtMTgxMDg0MTc0OCw0NT
 c3NjUxMTAsNzIyMzIwNDIzLC0xMjkxMjAyNDA3XX0=
 -->
