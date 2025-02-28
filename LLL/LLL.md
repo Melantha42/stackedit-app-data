@@ -12,10 +12,11 @@
 
 >**二维数组**
 >采用行储存，注意使用时下标不可越界
->
+>数据类型arr【行】【列】；常常采用双重for循环；
+>可求每列的 zuid
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MzMxNzI0NiwtMTgxMDg0MTc0OCw0NT
-c3NjUxMTAsNzIyMzIwNDIzLC0xMjkxMjAyNDA3XX0=
+eyJoaXN0b3J5IjpbLTIxMTU1MTg5MjEsLTE4MTA4NDE3NDgsND
+U3NzY1MTEwLDcyMjMyMDQyMywtMTI5MTIwMjQwN119
 -->
