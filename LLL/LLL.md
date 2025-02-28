@@ -15,10 +15,12 @@
 >**字符串**
 >字符串是特殊的一维数组，组成其的每一个元素都是字符类型；
 >字符串以‘\0’结尾，标记字符串的结束；
+>在内存中是连续储存的，一个字符占用一个字节
+>可对字符串进行一系列类一维数组的操作；
 >
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjM2ODA5MiwtMTgxMDg0MTc0OCw0NT
+eyJoaXN0b3J5IjpbMjA3ODkzMDMwMywtMTgxMDg0MTc0OCw0NT
 c3NjUxMTAsNzIyMzIwNDIzLC0xMjkxMjAyNDA3XX0=
 -->
