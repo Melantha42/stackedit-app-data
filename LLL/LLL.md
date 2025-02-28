@@ -1,12 +1,8 @@
 >**数组：高级数据类型——*可将同一种数据类型进行集合*；
 >若将结构体（高级数据类型/自定义类型）放置在数组中，将会形成结构体数组（更高级）；**
 
->**字符串与字符数组**
-两者仅相差结尾的一个单位元素‘/0’
->字符数组存储长度=字符串有效长度＋**1**
->字符数组以‘/0’结尾
- 
- >**一维数组的使用**
+
+ >**一维数组**
  >注意下标从0开始；
  >数组的使用一定与**for循环**绑定
 
@@ -16,8 +12,11 @@
 >可求每列的和、平均数、MAX、MIN；
 >也可求整体的和、平均值、MAX、MIN、相对下标
 
+>**字符串**
+>字符串是特殊的一维数组
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTE2Nzk3NywtMTgxMDg0MTc0OCw0NT
+eyJoaXN0b3J5IjpbLTczNDQ4NTc2MSwtMTgxMDg0MTc0OCw0NT
 c3NjUxMTAsNzIyMzIwNDIzLC0xMjkxMjAyNDA3XX0=
 -->
