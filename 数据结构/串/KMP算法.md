@@ -14,11 +14,11 @@ t      ——     a b c a a b b a b c a b
 --关于nextval数组
 - 该单位前缀的首重项与该单位前缀一致&&该单位与其首重项一致，模式串下标为净元素next数组下标
 - 该单位前缀的首重项与该单位前缀一致&&该单位与首重项不一致，模式串下标为该元素的原next数组下标本身
-- 该单位前缀与其首重不一致，模式串下标为该元素Next数组下标
+- 该单位前缀与其首重项不一致，模式串下标为该元素原Next数组下标本身
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODg4MTM5LC02NDY3Njc0NTcsLTExMD
-kyNzE5ODMsLTIwNzkyMDk4MDYsMTcyMzAwMjg5NywyMDk4NjY3
-MjE1LC0zMzU0NDk2MTAsLTE2ODc5MjYzNzhdfQ==
+eyJoaXN0b3J5IjpbMTMzMjg2NDY4NiwtNjQ2NzY3NDU3LC0xMT
+A5MjcxOTgzLC0yMDc5MjA5ODA2LDE3MjMwMDI4OTcsMjA5ODY2
+NzIxNSwtMzM1NDQ5NjEwLC0xNjg3OTI2Mzc4XX0=
 -->
