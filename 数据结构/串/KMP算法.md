@@ -7,9 +7,9 @@
 ## Next 数组
 模式串——t=abcaabbabcab
 next数组：
-|--
+ |                                          |                                             |
 ## Nextval 数组
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzY1ODY1Ml19
+eyJoaXN0b3J5IjpbLTEwMTQyODAyNTJdfQ==
 -->
