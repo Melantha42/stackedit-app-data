@@ -10,11 +10,11 @@ next 数组（从0开始）：
 t      ——     a b c a a b b a b c a b
      ( t )单位——1 2 3  4 5 6 7 8 9 10 11 12
 ( next )i—— 0 1 1 1 2 2 3 1 2 3 4 5、（前面对几个就写几个-1）
-（nextval）0 1 1 0 2 1 3 0 1 1 0 5（单位前缀）
+（nextval）0 1 1 0 2 1 3 0 1 1 0 5（该单位前缀与）
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MTczNjY2LC0xMTA5MjcxOTgzLC0yMD
-c5MjA5ODA2LDE3MjMwMDI4OTcsMjA5ODY2NzIxNSwtMzM1NDQ5
-NjEwLC0xNjg3OTI2Mzc4XX0=
+eyJoaXN0b3J5IjpbLTY4NTg3Mjk3MSwtMTEwOTI3MTk4MywtMj
+A3OTIwOTgwNiwxNzIzMDAyODk3LDIwOTg2NjcyMTUsLTMzNTQ0
+OTYxMCwtMTY4NzkyNjM3OF19
 -->
