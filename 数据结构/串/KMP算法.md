@@ -9,9 +9,10 @@
 next 数组（从0开始）：
 t      ——     a b c a a b b a b c a b
      ( t )单位——1 2 3  4 5 6 7 8 9 10 11 12
-( next )i—— 0 1 1 0 2 1
+( next )i—— 0 1 1 0
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTQ0OTYxMCwtMTY4NzkyNjM3OF19
+eyJoaXN0b3J5IjpbMTkxNjk2NDA4OSwtMzM1NDQ5NjEwLC0xNj
+g3OTI2Mzc4XX0=
 -->
