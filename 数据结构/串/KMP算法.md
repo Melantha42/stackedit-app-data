@@ -12,13 +12,13 @@ t      ——     a b c a a b b a b c a b
 ( next )i—— 0 1 1 1 2 2 3 1 2 3 4 5、（前面对几个就写几个-1）
 （nextval）0 1 1 0 2 1 3 0 1 1 0 5
 --关于nextval数组
-- 该单位前缀的首重项与该单位前缀一致&&该单位与其净元素一致，模式串下标为净元素next数组下标
-- 该单位前缀的净元素与该单位前缀一致&&该单位与净元素不一致，模式串下标为该元素的原next数组下标本身
-- 该单位前缀与其净元素不一致，模式串下标为该元素Next数组下标
+- 该单位前缀的首重项与该单位前缀一致&&该单位与其首重项一致，模式串下标为净元素next数组下标
+- 该单位前缀的首重项与该单位前缀一致&&该单位与首重项不一致，模式串下标为该元素的原next数组下标本身
+- 该单位前缀与其首重不一致，模式串下标为该元素Next数组下标
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODIwMzE2MiwtNjQ2NzY3NDU3LC0xMT
-A5MjcxOTgzLC0yMDc5MjA5ODA2LDE3MjMwMDI4OTcsMjA5ODY2
-NzIxNSwtMzM1NDQ5NjEwLC0xNjg3OTI2Mzc4XX0=
+eyJoaXN0b3J5IjpbMTYxODg4MTM5LC02NDY3Njc0NTcsLTExMD
+kyNzE5ODMsLTIwNzkyMDk4MDYsMTcyMzAwMjg5NywyMDk4NjY3
+MjE1LC0zMzU0NDk2MTAsLTE2ODc5MjYzNzhdfQ==
 -->
