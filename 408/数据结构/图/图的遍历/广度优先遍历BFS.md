@@ -14,7 +14,12 @@
 2. 时间复杂度：
 - 访问结点的时间+访问所有边的时间
 - 邻接矩阵：O(|V|$^2$)
-- 邻接表：O(|V|+||)  
+- 邻接表：O(|V|+|E|)
+
+④广度优先生成树：
+- 由广度优先遍历确定的树
+- **邻接表**存储的图表示方式不唯一，遍历序列、生成树也不唯一
+- 遍历非连通图ke'de  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODIyMzE2OCwtMTI4Mzg1MzM3XX0=
+eyJoaXN0b3J5IjpbMTg3ODE2MTgyMCwtMTI4Mzg1MzM3XX0=
 -->
