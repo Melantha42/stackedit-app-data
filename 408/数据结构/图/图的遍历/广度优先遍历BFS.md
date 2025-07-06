@@ -11,7 +11,10 @@
 
 ③复杂度：
 1. 空间复杂度：O（|V|）——辅助队列
-2. 时间fu'za'du 
+2. 时间复杂度：
+- 访问结点的时间+访问所有边的时间
+- 邻接矩阵：O(|V|$^2$)
+- 邻接表：O(|V|+||)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4NTcwNDc3LC0xMjgzODUzMzddfQ==
+eyJoaXN0b3J5IjpbMTYzODIyMzE2OCwtMTI4Mzg1MzM3XX0=
 -->
