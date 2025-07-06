@@ -22,13 +22,13 @@
 - 遍历非连通图可得广度优先生成森林（多次调用BFS）  
 
 
-### 对无向图进行BFS/DFS遍历，调用BFS/DFS函数的次数=连通分量数; 对于连通图，只需要调用1次BFS/DFS
+对**无向图**进行BFS/DFS遍历，调用BFS/DFS函数的次数=连通分量数; 对于连通图，只需要调用1次BFS/DFS
 
-### 对有向图进行BFS/DFS遍历,调用函数的次数要具体问题具体分析; 若起始顶点到其他所有顶点都有路径,则只需要调用一次BFS/DFS函数
+对**有向图**进行BFS/DFS遍历,调用函数的次数要具体问题具体分析; 若起始顶点到其他所有顶点都有路径,则只需要调用一次BFS/DFS函数
 
-### 对于强连通图,从任意jie
+ 对于**强连通图**,从任意结点出发都只需要调用一次函数
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NjM4MjExLC0xMjgzODUzMzddfQ==
+eyJoaXN0b3J5IjpbLTE2MDc2MDE1MjgsLTEyODM4NTMzN119
 -->
