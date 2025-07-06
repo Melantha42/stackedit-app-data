@@ -20,6 +20,7 @@
 - 由广度优先遍历确定的树
 - **邻接表**存储的图表示方式不唯一，遍历序列、生成树也不唯一
 - 遍历非连通图可得广度优先生成森林（多次调用BFS）  
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI5NzI2MTksLTEyODM4NTMzN119
+eyJoaXN0b3J5IjpbMjAyOTA0NTE2OCwtMTI4Mzg1MzM3XX0=
 -->
