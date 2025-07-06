@@ -7,7 +7,7 @@
 1. 需要一个辅助队列
 2. 如何从一个结点找到与之相连的其他顶点
 3. 对比树的BFS要额外设置一个visited数组防止访问重复
-4. 如何处理非连通图
+4. **如何处理非连通图**
 
 ③复杂度：
 1. 空间复杂度：O（|V|）——辅助队列
@@ -19,7 +19,7 @@
 ④广度优先生成树：
 - 由广度优先遍历确定的树
 - **邻接表**存储的图表示方式不唯一，遍历序列、生成树也不唯一
-- 遍历非连通图ke'de  
+- 遍历非连通图可得广度优先生成森林（多次调用BFS）  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODE2MTgyMCwtMTI4Mzg1MzM3XX0=
+eyJoaXN0b3J5IjpbLTE1MTI5NzI2MTksLTEyODM4NTMzN119
 -->
