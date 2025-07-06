@@ -24,9 +24,11 @@
 
 ### 对无向图进行BFS/DFS遍历，调用BFS/DFS函数的次数=连通分量数; 对于连通图，只需要调用1次BFS/DFS
 
-### 对有向图进行BFS/DFS遍历
+### 对有向图进行BFS/DFS遍历,调用函数的次数要具体问题具体分析; 若起始顶点到其他所有顶点都有路径,则只需要调用一次BFS/DFS函数
+
+### 对于强连通图,从任意jie
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODcxOTM0NSwtMTI4Mzg1MzM3XX0=
+eyJoaXN0b3J5IjpbNjc3NjM4MjExLC0xMjgzODUzMzddfQ==
 -->
