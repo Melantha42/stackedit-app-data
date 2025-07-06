@@ -21,9 +21,12 @@
 - **邻接表**存储的图表示方式不唯一，遍历序列、生成树也不唯一
 - 遍历非连通图可得广度优先生成森林（多次调用BFS）  
 
->对无向图进行BFS/DFS遍历，调用BFS/DFS函数的次数=连通分量数
 
->对于连通图，只需要调用1次BFS/DFS
+### 对无向图进行BFS/DFS遍历，调用BFS/DFS函数的次数=连通分量数; 对于连通图，只需要调用1次BFS/DFS
+
+### 对有向图进行BFS/DFS遍历
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTAyNzA5MCwtMTI4Mzg1MzM3XX0=
+eyJoaXN0b3J5IjpbMTEyODcxOTM0NSwtMTI4Mzg1MzM3XX0=
 -->
