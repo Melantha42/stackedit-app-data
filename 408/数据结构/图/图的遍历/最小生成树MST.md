@@ -26,7 +26,18 @@ b.将v加入集合Vnew中，将<u, v>边加入集合Enew中；
 邻接矩阵:O(v2) 
 邻接表:O(elog2v)
 
-### ke's
+### 克鲁斯卡尔（Kruskal）算法
+1).记Graph中有v个顶点，e个边
+
+2).新建图Graphnew（新集合），Graphnew中拥有原图中相同的e个顶点，但没有边
+
+3).将原图Graph中所有e个边按权值从小到大排序
+
+4).循环：从权值最小的边开始遍历每条边 直至图Graph中所有的节点都在同一个连通分量中
+
+if 这条边连接的两个节点于图Graphnew中不在同一个连通分量中
+
+添加这条边到图Graphnew中
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Mjk3MzYzNSwtNDIxNDU3MDc4XX0=
+eyJoaXN0b3J5IjpbOTE5MzUyMjQwLC00MjE0NTcwNzhdfQ==
 -->
