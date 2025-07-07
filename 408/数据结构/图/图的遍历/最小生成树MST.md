@@ -1,7 +1,8 @@
 
 
 
-> Written with [StackEdit中文版](https://stackedit.cn/).
+# 最小生成树
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwOTA1NjE5XX0=
+eyJoaXN0b3J5IjpbLTY0Nzk5Mjg0MF19
 -->
