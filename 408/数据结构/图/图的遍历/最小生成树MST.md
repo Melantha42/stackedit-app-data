@@ -38,6 +38,12 @@ b.将v加入集合Vnew中，将<u, v>边加入集合Enew中；
 if 这条边连接的两个节点于图Graphnew中不在同一个连通分量中
 
 添加这条边到图Graphnew中
+![输入图片说明](/imgs/2025-07-07/RowbT6HdbB9rFWiB.png)
+
+时间复杂度：
+e为图中的边数	
+elog2e   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5MzUyMjQwLC00MjE0NTcwNzhdfQ==
+eyJoaXN0b3J5IjpbLTE4MDY0ODgyMDUsOTE5MzUyMjQwLC00Mj
+E0NTcwNzhdfQ==
 -->
