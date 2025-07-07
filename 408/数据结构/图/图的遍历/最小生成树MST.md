@@ -23,8 +23,8 @@ b.将v加入集合Vnew中，将<u, v>边加入集合Enew中；
 **prim时间复杂度**
 
 这里记顶点数v，边数e
-
-邻接矩阵:O(v2) 邻接表:O(elog2v)
+邻接矩阵:O(v2) 
+邻接表:O(elog2v)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzOTY5MTI2XX0=
+eyJoaXN0b3J5IjpbLTQyMTQ1NzA3OF19
 -->
