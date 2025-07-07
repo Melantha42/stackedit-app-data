@@ -3,7 +3,7 @@
 
 # Floyd算法（带权图、无权图）
 
-动态规划思想：将问题的求解拆分为多个阶段
+**动态规划思想：将问题的求解拆分为多个阶段**
 
 Floyd算法是一个经典的动态规划算法。用通俗的语言来描述的话，首先我们的目标是寻找从点i到点j的最短路径。从动态规划的角度看问题，我们需要为这个目标重新做一个诠释（这个诠释正是动态规划最富创造力的精华所在）
 
@@ -15,7 +15,8 @@ Floyd算法是一个经典的动态规划算法。用通俗的语言来描述的
 
 2. 对于每一对顶点 u 和 v，看看是否存在一个顶点 w 使得从 u 到 w 再到 v 比己知的路径更短。如果是更新它。
 
+![输入图片说明](/imgs/2025-07-07/sie5cNIrNhLIHN50.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkwMDc2MTksLTE3NjMyMzkzMzgsLT
-U1MDMwNjA1OV19
+eyJoaXN0b3J5IjpbLTM1MTY0MzQyNCwtMTE2OTAwNzYxOSwtMT
+c2MzIzOTMzOCwtNTUwMzA2MDU5XX0=
 -->
