@@ -25,6 +25,8 @@ b.将v加入集合Vnew中，将<u, v>边加入集合Enew中；
 这里记顶点数v，边数e
 邻接矩阵:O(v2) 
 邻接表:O(elog2v)
+
+### ke's
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTQ1NzA3OF19
+eyJoaXN0b3J5IjpbMTQ2Mjk3MzYzNSwtNDIxNDU3MDc4XX0=
 -->
