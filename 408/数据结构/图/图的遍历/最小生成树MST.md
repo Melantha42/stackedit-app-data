@@ -23,8 +23,8 @@ b.将v加入集合Vnew中，将<u, v>边加入集合Enew中；
 **prim时间复杂度**
 
 这里记顶点数v，边数e
-邻接矩阵:O(v2) 
-邻接表:O(elog2v)
+邻接矩阵:O(v$^2$) 
+邻接表:O(elog$_2$v)
 
 ### 克鲁斯卡尔（Kruskal）算法
 1).记Graph中有v个顶点，e个边
@@ -42,8 +42,8 @@ if 这条边连接的两个节点于图Graphnew中不在同一个连通分量中
 
 时间复杂度：
 e为图中的边数	
-elog2e   
+elog2$e   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY0ODgyMDUsOTE5MzUyMjQwLC00Mj
+eyJoaXN0b3J5IjpbLTExNjQxMDI3OTAsOTE5MzUyMjQwLC00Mj
 E0NTcwNzhdfQ==
 -->
