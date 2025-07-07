@@ -18,12 +18,13 @@ a.在集合E中选取权值最小的边<u, v>，其中u为集合Vnew中的元素
 b.将v加入集合Vnew中，将<u, v>边加入集合Enew中；
 
 4).输出：使用集合Vnew和Enew来描述所得到的最小生成树。
+![输入图片说明](/imgs/2025-07-07/IllnhsSSpYQIBQlX.png)
 
-**prim[图片上传中...(image-IcCwUlnmYrrjNrjv)]时间复杂度**
+**prim时间复杂度**
 
 这里记顶点数v，边数e
 
 邻接矩阵:O(v2) 邻接表:O(elog2v)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIxODM0NThdfQ==
+eyJoaXN0b3J5IjpbOTUzOTY5MTI2XX0=
 -->
