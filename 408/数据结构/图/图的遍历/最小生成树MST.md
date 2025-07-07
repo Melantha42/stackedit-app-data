@@ -19,11 +19,11 @@ b.将v加入集合Vnew中，将<u, v>边加入集合Enew中；
 
 4).输出：使用集合Vnew和Enew来描述所得到的最小生成树。
 
-**prim时间复杂度**
+**prim[图片上传中...(image-IcCwUlnmYrrjNrjv)]时间复杂度**
 
 这里记顶点数v，边数e
 
 邻接矩阵:O(v2) 邻接表:O(elog2v)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTczNzA5OF19
+eyJoaXN0b3J5IjpbLTE0NzIxODM0NThdfQ==
 -->
