@@ -9,8 +9,8 @@
 # 查找
 若树非空，目标值与根结点值比较
 若相等，则查找成功
-若小于gen
+若小于根节点，则在左子树上查找，反之亦然
+查找成功，返回结点指针；失败，则返回NULL
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY1MjAxNTUsLTIxMDUwNzg5MTNdfQ
-==
+eyJoaXN0b3J5IjpbMTcxMzA0NzYwLC0yMTA1MDc4OTEzXX0=
 -->
