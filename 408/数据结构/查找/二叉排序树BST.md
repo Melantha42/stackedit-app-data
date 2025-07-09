@@ -27,17 +27,18 @@
 ![输入图片说明](/imgs/2025-07-09/6kqlL6zYhx4Zm7Jj.jpeg)
 
 # 删除
+
 先搜索找到目标结点：
 ①若被删除结点z是叶子结点，则直接删除，不会破坏二叉排序树的性质
 ②若结点z只有一棵左子树或右子树，则让z的子树替代z即可
 ③若结点z有左、右两颗子树，则令z的直接后继或直接前驱代替z，然后山区这个直接后继或直接前驱，便会转化为①②
 
-z
+z的后继——z的右子树中最左下角结点（一定没有左子树）
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4MzYwMzgzLDMxOTY5OTkwMCwxNzEzMD
-Q3NjAsLTIxMDUwNzg5MTNdfQ==
+eyJoaXN0b3J5IjpbLTEwMjg2MTkxMTIsMzE5Njk5OTAwLDE3MT
+MwNDc2MCwtMjEwNTA3ODkxM119
 -->
