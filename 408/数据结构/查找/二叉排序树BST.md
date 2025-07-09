@@ -11,6 +11,12 @@
 若相等，则查找成功
 若小于根节点，则在左子树上查找，反之亦然
 查找成功，返回结点指针；失败，则返回NULL
+
+###  代码实现
+![输入图片说明](/imgs/2025-07-09/8G0QMPxDnwexLu8c.jpeg)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzA0NzYwLC0yMTA1MDc4OTEzXX0=
+eyJoaXN0b3J5IjpbMTg2NjU5NjkxMywxNzEzMDQ3NjAsLTIxMD
+UwNzg5MTNdfQ==
 -->
