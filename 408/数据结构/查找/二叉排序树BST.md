@@ -16,7 +16,11 @@
 ![输入图片说明](/imgs/2025-07-09/8G0QMPxDnwexLu8c.jpeg)
 
 
+# 插入
+若原二叉排序树为空，则直接插入结点；否则，若关键字k小于根结点值，则插入到左子树；反之插入右子树
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjU5NjkxMywxNzEzMDQ3NjAsLTIxMD
-UwNzg5MTNdfQ==
+eyJoaXN0b3J5IjpbMzE5Njk5OTAwLDE3MTMwNDc2MCwtMjEwNT
+A3ODkxM119
 -->
