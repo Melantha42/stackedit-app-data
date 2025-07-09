@@ -20,8 +20,18 @@
 若原二叉排序树为空，则直接插入结点；否则，若关键字k小于根结点值，则插入到左子树；反之插入右子树
 
 - 若树中存在相同关键字的结点，插入失败
+![输入图片说明](/imgs/2025-07-09/8hBjpZFngEaOdWcu.jpeg)
+
+# 构造二叉排序树
+
+![输入图片说明](/imgs/2025-07-09/6kqlL6zYhx4Zm7Jj.jpeg)
+
+# 删除
+先搜索找到目标结点：
+①若被删除结点z是叶子结点，则直接删除，不会破坏二叉排序树的性质
+②若结点z只有一棵左子树或右子树，则让z的
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTE2Mzg2MywzMTk2OTk5MDAsMTcxMz
-A0NzYwLC0yMTA1MDc4OTEzXX0=
+eyJoaXN0b3J5IjpbNzI5NDg3MTg1LDMxOTY5OTkwMCwxNzEzMD
+Q3NjAsLTIxMDUwNzg5MTNdfQ==
 -->
