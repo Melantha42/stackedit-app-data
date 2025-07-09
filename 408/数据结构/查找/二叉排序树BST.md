@@ -19,8 +19,9 @@
 # 插入
 若原二叉排序树为空，则直接插入结点；否则，若关键字k小于根结点值，则插入到左子树；反之插入右子树
 
+- 若树中存在相同关键字的结点，插入失败
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5Njk5OTAwLDE3MTMwNDc2MCwtMjEwNT
-A3ODkxM119
+eyJoaXN0b3J5IjpbMTI1NTE2Mzg2MywzMTk2OTk5MDAsMTcxMz
+A0NzYwLC0yMTA1MDc4OTEzXX0=
 -->
