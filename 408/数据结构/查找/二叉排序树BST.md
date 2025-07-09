@@ -26,7 +26,7 @@
 
 ![输入图片说明](/imgs/2025-07-09/6kqlL6zYhx4Zm7Jj.jpeg)
 
-# 删除
+# 删除（左有最大，右有最小）
 
 先搜索找到目标结点：
 ①若被删除结点z是叶子结点，则直接删除，不会破坏二叉排序树的性质
@@ -39,6 +39,6 @@ z的后继——z的右子树中最左下角结点（一定没有左子树）
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg2MTkxMTIsMzE5Njk5OTAwLDE3MT
-MwNDc2MCwtMjEwNTA3ODkxM119
+eyJoaXN0b3J5IjpbLTUxNjY2NjI3NCwzMTk2OTk5MDAsMTcxMz
+A0NzYwLC0yMTA1MDc4OTEzXX0=
 -->
