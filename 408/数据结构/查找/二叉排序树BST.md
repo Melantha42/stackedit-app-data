@@ -32,7 +32,12 @@
 ②若结点z只有一棵左子树或右子树，则让z的子树替代z即可
 ③若结点z有左、右两颗子树，则令z的直接后继或直接前驱代替z，然后山区这个直接后继或直接前驱，便会转化为①②
 
+z
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTM0MTk1NywzMTk2OTk5MDAsMTcxMz
-A0NzYwLC0yMTA1MDc4OTEzXX0=
+eyJoaXN0b3J5IjpbMzg4MzYwMzgzLDMxOTY5OTkwMCwxNzEzMD
+Q3NjAsLTIxMDUwNzg5MTNdfQ==
 -->
