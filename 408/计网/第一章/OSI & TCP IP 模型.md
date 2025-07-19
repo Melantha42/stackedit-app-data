@@ -13,10 +13,10 @@
 
 ### 各层数据传输单位
 ![输入图片说明](/imgs/2025-07-19/uftU5DmLlBCDZHRh.jpeg)
-从上到下数据单位变小，分组j
+从上到下数据单位变小（分组交换原理）
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTA2MDU2MCw3Mjc3MTM1NTYsMjA0MD
-I5NzYyMl19
+eyJoaXN0b3J5IjpbMjE1NjEzMzYyLDcyNzcxMzU1NiwyMDQwMj
+k3NjIyXX0=
 -->
