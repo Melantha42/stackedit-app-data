@@ -10,11 +10,13 @@
 5. 会话层任务：会话管理——管理进程间会话，通信失效时从检查点继续恢复通信
 6. 表示层任务：数据格式转化——解决不同主机上信息表示方式不同的问题（通过编码转换、压缩/解压、加密/解密）
 7. 应用层任务：实现特定的网络应用（如HTTP网络协议）
-8. 
 
+### 各层数据传输单位
+![输入图片说明](/imgs/2025-07-19/uftU5DmLlBCDZHRh.jpeg)
+从上到下数据单位变小，分组j
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDkxMTcyNSw3Mjc3MTM1NTYsMjA0MD
+eyJoaXN0b3J5IjpbLTc5OTA2MDU2MCw3Mjc3MTM1NTYsMjA0MD
 I5NzYyMl19
 -->
