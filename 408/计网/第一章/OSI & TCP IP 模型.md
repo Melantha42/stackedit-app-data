@@ -4,7 +4,7 @@
 # OSI参考模型（七层）
 0. 物理传输媒体（网线）任务：为物理层提供传输媒介
 1. 物理层（实现相邻接口的比特传输）任务：①定义电路接口参数；②定义传输信号的含义、电气特征
-2. 数据链路层
+2. 数据链路层（确保相邻节点间的链路连接无差错）：
 3. 网络层
 4. 传输层
 5. 会话层
@@ -14,5 +14,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzOTMxMjMsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMTc0ODIyMzY0OCwyMDQwMjk3NjIyXX0=
 -->
