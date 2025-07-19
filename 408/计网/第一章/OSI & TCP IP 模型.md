@@ -26,8 +26,9 @@
 ## OSI & TCP/IP区别
 
 
-OSI：核心部分处理
+OSI：网络核心部分（路由器）负载更高，负载更高、造价更高
+TCP/IP：路由器负载低，负载更高，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAxMDgwMzEsNTAyODI1MzgxLDQ0OD
-k5NTEyMCw3Mjc3MTM1NTYsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMjA4MTY2MzI4OCw1MDI4MjUzODEsNDQ4OT
+k1MTIwLDcyNzcxMzU1NiwyMDQwMjk3NjIyXX0=
 -->
