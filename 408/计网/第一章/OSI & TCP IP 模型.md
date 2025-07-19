@@ -19,8 +19,8 @@
 
 ### 并不是所有的网络应用都需要表示层与会话层的数据格式转化、会话管理等功能，那么可以将其简化分层，将OSI模型上三层合并为一层，具体功能可以通过特定协议实现。
 
-
+5. 应用层：实现特定的网络应用（功能复杂且多样）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcxMDE1MjksNDQ4OTk1MTIwLDcyNz
-cxMzU1NiwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTIwNjM2NDA4Nyw0NDg5OTUxMjAsNzI3Nz
+EzNTU2LDIwNDAyOTc2MjJdfQ==
 -->
