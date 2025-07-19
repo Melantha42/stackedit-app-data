@@ -18,11 +18,11 @@
 # TCP/IP模型（四层）
 
 ### 并不是所有的网络应用都需要表示层与会话层的数据格式转化、会话管理等功能，那么可以将其简化分层，将OSI模型上三层合并为一层，具体功能可以通过特定协议实现。
-1. 网络接口：实现相邻结点数据传输（为网络层**传输**分组，**但具体传输不作规定**）
+1. 网络接口：实现相邻结点数据传输（为网络层**传输**分组，**但具体传输方式不作规定**）
 2. 网络层：
 3. 传输层：
 4.  应用层：实现特定的网络应用（功能复杂且多样）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MjE4MzY4LDQ0ODk5NTEyMCw3Mjc3MT
+eyJoaXN0b3J5IjpbMzAxODU3ODQ2LDQ0ODk5NTEyMCw3Mjc3MT
 M1NTYsMjA0MDI5NzYyMl19
 -->
