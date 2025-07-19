@@ -17,8 +17,8 @@
 
 # TCP/IP模型（四层）
 
-
+### 并不是所有的网络应用都需要表示层与会话层的
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4OTk1MTIwLDcyNzcxMzU1NiwyMDQwMj
-k3NjIyXX0=
+eyJoaXN0b3J5IjpbMTc2NTc5NzI1MCw0NDg5OTUxMjAsNzI3Nz
+EzNTU2LDIwNDAyOTc2MjJdfQ==
 -->
