@@ -5,12 +5,13 @@
 ![输入图片说明](/imgs/2025-07-24/PJgicuJF1BcArkf1.png)
 ## 接发窗口大小不统一，需要给帧编号排序 ，2bit信息对应二进制的4种状态
 ![输入图片说明](/imgs/2025-07-24/nqhtEj6EcPV5pheD.png)
-
+## 正常接收情况下，只需返回最后一帧确认帧ACK_i，表示已收到来自i号帧之前的所有帧，发送窗口后移，开始下一轮发送
 ![输入图片说明](/imgs/2025-07-24/OQQF6db2I5v88Avf.png)
 
-## 正常接收情况下，只需返回最后一帧确认帧ACK_i，表示已收到来自i号帧之前的所有帧，发送窗口后移，开始下一轮发送
+## 异常情况下，从哪里丢帧从哪里重传
 
 ![输入图片说明](/imgs/2025-07-24/lTdmf5bONfGW6n31.png)
+![输入图片说明](/imgs/2025-07-24/f66AxNR8ePucWPN8.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzUzNDEyOCw3NjU0MzQ2MDFdfQ==
+eyJoaXN0b3J5IjpbLTE3NzM4Mjg2Nyw3NjU0MzQ2MDFdfQ==
 -->
