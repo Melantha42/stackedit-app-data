@@ -15,7 +15,8 @@
 ![输入图片说明](/imgs/2025-07-24/hFRu3QWJzgEzmCeG.png)
 
 ## 确认帧丢失
-### 当确认帧丢失，触发计时器，导致数据重传，但落在接收窗口之外，接收方视为非法帧，重新发送ACK，
+### 当确认帧丢失，触发计时器，导致数据重传，但落在接收窗口之外，接收方视为重复帧，重新发送ACK，并丢弃数据帧，同时其他帧位也可正常传输（效率高）
+![输入图片说明](/imgs/2025-07-24/r6hiclLAed8kennm.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTExMzIyOCwzNzQ2NzY2MTNdfQ==
+eyJoaXN0b3J5IjpbLTEyMTA4MDgzMDEsMzc0Njc2NjEzXX0=
 -->
