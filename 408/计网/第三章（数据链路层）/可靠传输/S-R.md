@@ -19,8 +19,11 @@
 ![输入图片说明](/imgs/2025-07-24/r6hiclLAed8kennm.png)
 
 ## ！ 若不满足帧序号条件
-### 两个窗口之间会根据帧序号判断是否重复，若窗口间对的上则直接
+### 两个窗口之间会根据帧序号判断是否重复，若窗口间对的上则直接发送，会导致乱序
 ![输入图片说明](/imgs/2025-07-24/5J6n6Zxzy5j2abhc.png)
+
+## 总结
+![输入图片说明](/imgs/2025-07-24/thwG7AhYWBfMWMtp.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyMDM0NTU2LDM3NDY3NjYxM119
+eyJoaXN0b3J5IjpbLTgwOTQ5MDk0MCwzNzQ2NzY2MTNdfQ==
 -->
