@@ -12,13 +12,16 @@
 
 ![输入图片说明](/imgs/2025-07-24/lTdmf5bONfGW6n31.png)
 ![输入图片说明](/imgs/2025-07-24/f66AxNR8ePucWPN8.png)
-## 确认帧丢失，接收方窗口滑动后，发送方未收到确认导致触发计时器而重新传输帧，重置计时器，而接收方收到接收窗口以外的帧视为非法帧，丢弃且返回最后一位收到的正确帧的ACK，发送方移动窗口
+## 确认帧丢失，接收方窗口滑动后，发送方未收到确认导致触发计时器而重新传输帧，重置计时器，而接收方收到接收窗口以外的帧/被检查出错的帧，视为非法帧，丢弃且返回最后一位收到的正确帧的ACK，发送方移动窗口
 ![输入图片说明](/imgs/2025-07-24/Z5dcb6lw2BocG3N6.png)
 
 # ！！！注意！！！
 ### 无论是哪种传输协议，都必须满足W$_T$+W$_R$≤2$^n$，否则当出现传输错误时，会导致接收方数据帧乱序
 ![输入图片说明](/imgs/2025-07-24/bU0RL6pmfOmILyP2.png)
+
+# 总结
+![输入图片说明](/imgs/2025-07-24/FkUhbmmB3G0mY6Vn.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQwOTg2NzAsLTE5Nzc2NzcyODgsLT
+eyJoaXN0b3J5IjpbLTE0OTQ2MDY0MzUsLTE5Nzc2NzcyODgsLT
 E3NzM4Mjg2Nyw3NjU0MzQ2MDFdfQ==
 -->
