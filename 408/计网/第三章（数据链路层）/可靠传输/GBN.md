@@ -12,7 +12,9 @@
 
 ![输入图片说明](/imgs/2025-07-24/lTdmf5bONfGW6n31.png)
 ![输入图片说明](/imgs/2025-07-24/f66AxNR8ePucWPN8.png)
+## 确认帧丢失，接收方窗口滑动后，发送方未收到确认导致触发计时器而重新
+![输入图片说明](/imgs/2025-07-24/Z5dcb6lw2BocG3N6.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzM1MDExMSwtMTk3NzY3NzI4OCwtMT
-c3MzgyODY3LDc2NTQzNDYwMV19
+eyJoaXN0b3J5IjpbLTE0MzM3ODg2NDYsLTE5Nzc2NzcyODgsLT
+E3NzM4Mjg2Nyw3NjU0MzQ2MDFdfQ==
 -->
