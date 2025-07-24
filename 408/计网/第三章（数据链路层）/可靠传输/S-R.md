@@ -17,6 +17,10 @@
 ## 确认帧丢失
 ### 当确认帧丢失，触发计时器，导致数据重传，但落在接收窗口之外，接收方视为重复帧，重新发送ACK，并丢弃数据帧，同时其他帧位也可正常传输（效率高）
 ![输入图片说明](/imgs/2025-07-24/r6hiclLAed8kennm.png)
+
+## ！ 若不满足帧序号条件
+### 两个窗口之间会根据帧序号判断是否重复，若窗口间对的上则直接
+![输入图片说明](/imgs/2025-07-24/5J6n6Zxzy5j2abhc.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA4MDgzMDEsMzc0Njc2NjEzXX0=
+eyJoaXN0b3J5IjpbMzAyMDM0NTU2LDM3NDY3NjYxM119
 -->
