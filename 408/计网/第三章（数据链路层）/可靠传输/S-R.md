@@ -13,6 +13,8 @@
 ![输入图片说明](/imgs/2025-07-24/kht6fSLNB4IEb58b.png)
 ### 发送方在计时器触发之前重传错误帧，重置计时器
 ![输入图片说明](/imgs/2025-07-24/hFRu3QWJzgEzmCeG.png)
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMTY1MjE2LDM3NDY3NjYxM119
+eyJoaXN0b3J5IjpbMTkwMTcwOTcyNCwzNzQ2NzY2MTNdfQ==
 -->
