@@ -1,7 +1,7 @@
 
 
 
-# 后退N帧协议
+# 后退N帧协议（GBN）
 ![输入图片说明](/imgs/2025-07-24/PJgicuJF1BcArkf1.png)
 ## 接发窗口大小不统一，需要给帧编号排序 ，2bit信息对应二进制的4种状态
 ![输入图片说明](/imgs/2025-07-24/nqhtEj6EcPV5pheD.png)
@@ -22,6 +22,6 @@
 # 总结
 ![输入图片说明](/imgs/2025-07-24/FkUhbmmB3G0mY6Vn.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ2MDY0MzUsLTE5Nzc2NzcyODgsLT
-E3NzM4Mjg2Nyw3NjU0MzQ2MDFdfQ==
+eyJoaXN0b3J5IjpbLTQ1NzMwNjc5NSwtMTk3NzY3NzI4OCwtMT
+c3MzgyODY3LDc2NTQzNDYwMV19
 -->
