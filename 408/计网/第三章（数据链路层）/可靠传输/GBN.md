@@ -16,9 +16,9 @@
 ![输入图片说明](/imgs/2025-07-24/Z5dcb6lw2BocG3N6.png)
 
 # ！！！注意！！！
-### 无论是哪种传输协议，都必须满足W$_T$+W$_R$≤2￥
+### 无论是哪种传输协议，都必须满足W$_T$+W$_R$≤2$^n$，否则当出现传输错误时，会导致接收方数据帧乱序
 ![输入图片说明](/imgs/2025-07-24/bU0RL6pmfOmILyP2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDYzODc1NywtMTk3NzY3NzI4OCwtMT
-c3MzgyODY3LDc2NTQzNDYwMV19
+eyJoaXN0b3J5IjpbLTE4NTQwOTg2NzAsLTE5Nzc2NzcyODgsLT
+E3NzM4Mjg2Nyw3NjU0MzQ2MDFdfQ==
 -->
