@@ -14,7 +14,8 @@
 ### 发送方在计时器触发之前重传错误帧，重置计时器
 ![输入图片说明](/imgs/2025-07-24/hFRu3QWJzgEzmCeG.png)
 
-##
+## 确认帧丢失
+### 当确认帧丢失，触发计时器，导致数据重传，但落在接收窗口之外，接收方视为非法帧，重新发送ACK，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTcwOTcyNCwzNzQ2NzY2MTNdfQ==
+eyJoaXN0b3J5IjpbMTg5NTExMzIyOCwzNzQ2NzY2MTNdfQ==
 -->
