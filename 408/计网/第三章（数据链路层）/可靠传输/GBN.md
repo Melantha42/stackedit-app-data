@@ -8,7 +8,7 @@
 
 ![输入图片说明](/imgs/2025-07-24/OQQF6db2I5v88Avf.png)
 
-### 正常接收情况下，只需返回最后一帧确认帧，表示
+### 正常接收情况下，只需返回最后一帧确认帧ACK_i，表示已收到来自i号帧之前的所有帧，发送窗口后移，开始下一轮发送
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NTY0MzIzXX0=
+eyJoaXN0b3J5IjpbNzY1NDM0NjAxXX0=
 -->
