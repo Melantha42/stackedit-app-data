@@ -8,7 +8,9 @@
 ## 数据帧丢失
 ### 采用超时重传机制，接收窗口始终不滑出未接收帧位，超时未收到该帧位ACK则重传，此时其他帧位照常发送，极大提升了传输效率
 ![输入图片说明](/imgs/2025-07-24/towK5dNgESNmwsLG.png)
-
+## 数据检查错误
+### 采用NAK，接收方主动请求重传错误帧位并丢弃错误帧
+![输入图片说明](/imgs/2025-07-24/mjZhyOQbva3jkgOb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA3NjIzOTMsMzc0Njc2NjEzXX0=
+eyJoaXN0b3J5IjpbMTkzMDEyMTk5MSwzNzQ2NzY2MTNdfQ==
 -->
