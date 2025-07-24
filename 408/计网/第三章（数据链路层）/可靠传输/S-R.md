@@ -10,7 +10,9 @@
 ![输入图片说明](/imgs/2025-07-24/towK5dNgESNmwsLG.png)
 ## 数据检查错误
 ### 采用NAK，接收方主动请求重传错误帧位并丢弃错误帧
-![输入图片说明](/imgs/2025-07-24/mjZhyOQbva3jkgOb.png)
+![输入图片说明](/imgs/2025-07-24/kht6fSLNB4IEb58b.png)
+### 发送方在计时器触发之前重传错误帧，重置计时器
+![输入图片说明](/imgs/2025-07-24/hFRu3QWJzgEzmCeG.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDEyMTk5MSwzNzQ2NzY2MTNdfQ==
+eyJoaXN0b3J5IjpbNzkzMTY1MjE2LDM3NDY3NjYxM119
 -->
