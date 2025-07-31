@@ -12,7 +12,7 @@
 ![输入图片说明](/imgs/2025-07-31/ccuTlBA8xYWiTPej.png)
 
 ### 帧间间隔
-![输入图片说明](/imgs/2025-07-31/CTrvYj2nNgVQwimU.png)
+![输入图片说明](/imgs/2025-07-31/CTrvYj2nNgVQwimU.png) 
 ![输入图片说明](/imgs/2025-07-31/PmM3onS2W5JUE3QR.png)
 ### 空闲发送
 ![输入图片说明](/imgs/2025-07-31/gpcsGaGFmoFs1wXl.png)
@@ -26,5 +26,6 @@
 #### 根据协议内容发送长数据帧前，预约信道
 ![输入图片说明](/imgs/2025-07-31/eiWTgPEB3tVMiWSc.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTc0NTMzLC03OTU1NDM4ODZdfQ==
+eyJoaXN0b3J5IjpbMTY2NjY1MDkwNywxMDgxNzQ1MzMsLTc5NT
+U0Mzg4Nl19
 -->
