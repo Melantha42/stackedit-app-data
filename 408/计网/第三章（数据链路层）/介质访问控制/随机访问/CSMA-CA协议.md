@@ -1,5 +1,7 @@
 
 # 无线网络协议 CSMA-CA
+无线网络协议/CSMA-CA：
+![输入图片说明](/imgs/2025-07-31/9zniSCGhQafb8OPv.png)
 ![输入图片说明](/imgs/2025-07-31/ynNMQsYaNFjNkdym.png)
 
 ## AP
@@ -23,5 +25,5 @@
 #### 根据协议内容发送长数据帧前，预约信道
 ![输入图片说明](/imgs/2025-07-31/eiWTgPEB3tVMiWSc.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjMwODIxMiwtNzk1NTQzODg2XX0=
+eyJoaXN0b3J5IjpbLTU0NDMzNjEyNiwtNzk1NTQzODg2XX0=
 -->
