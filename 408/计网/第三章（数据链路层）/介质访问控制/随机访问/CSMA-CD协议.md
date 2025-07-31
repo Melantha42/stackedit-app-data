@@ -19,8 +19,15 @@
 ![输入图片说明](/imgs/2025-07-31/BAkmKPvUL6shoOS8.png)
 ![输入图片说明](/imgs/2025-07-31/9VfDKBXVNwvLDa9b.png)
 ![输入图片说明](/imgs/2025-07-31/iJkojHF6LUQxt3yS.png)
-作用：保证发送结点是处于完全占用信道的情况下发送的数据，否则当其余结点收到小于最短帧长限制的帧时，会当作非法帧（不完整）丢弃
+作用：保证发送结点是处于完全占用信道的情况下发送的数据，否则当其余结点收到小于最短帧长限制的帧时，会当作非法帧（不完整）丢弃。
+即：
+
+![输入图片说明](/imgs/2025-07-31/TByfDLO0DiPNnaHp.png)
+
+### 补充
+![输入图片说明](/imgs/2025-07-31/Lkt8FmMmFmH7Vz1u.png)
+y
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1OTkzNzQxLDQ2MjQyNzc0NywxMzk0MD
+eyJoaXN0b3J5IjpbNTcxNzM4MTI4LDQ2MjQyNzc0NywxMzk0MD
 kwNTEzLC0xNDA4MjU4OTg4XX0=
 -->
