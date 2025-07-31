@@ -2,6 +2,9 @@
 # 无线网络协议 CSMA-CA
 ![输入图片说明](/imgs/2025-07-31/ynNMQsYaNFjNkdym.png)
 
+## AP
+![输入图片说明](/imgs/2025-07-31/oPwaBaoPxP475aiQ.png)
+![输入图片说明](/imgs/2025-07-31/8E56mRoA13l2RNO4.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTcxMTI4ODFdfQ==
+eyJoaXN0b3J5IjpbOTgxMjQ5MTk0XX0=
 -->
