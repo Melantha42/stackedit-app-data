@@ -16,7 +16,9 @@
 ![输入图片说明](/imgs/2025-07-31/4gGZJZG8HcmI18do.png)
 
 ### 最短帧长限制
+![输入图片说明](/imgs/2025-07-31/BAkmKPvUL6shoOS8.png)
+![输入图片说明](/imgs/2025-07-31/9VfDKBXVNwvLDa9b.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTA4NDEyOCw0NjI0Mjc3NDcsMTM5ND
-A5MDUxMywtMTQwODI1ODk4OF19
+eyJoaXN0b3J5IjpbNTUxMjg3ODY0LDQ2MjQyNzc0NywxMzk0MD
+kwNTEzLC0xNDA4MjU4OTg4XX0=
 -->
