@@ -14,7 +14,9 @@
 ### 怎么衡量争用期
 ![输入图片说明](/imgs/2025-07-31/5uOiEVCEQaKqHYrf.png)
 ![输入图片说明](/imgs/2025-07-31/4gGZJZG8HcmI18do.png)
+
+### 最短帧长限制
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDM0Mzg4NCw0NjI0Mjc3NDcsMTM5ND
+eyJoaXN0b3J5IjpbLTI5OTA4NDEyOCw0NjI0Mjc3NDcsMTM5ND
 A5MDUxMywtMTQwODI1ODk4OF19
 -->
