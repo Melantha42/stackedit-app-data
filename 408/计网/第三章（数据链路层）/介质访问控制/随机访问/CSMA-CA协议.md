@@ -20,6 +20,8 @@
 
 ### 隐蔽站问题
 ![输入图片说明](/imgs/2025-07-31/BtZABQqjxxb2Jbgv.png)
+#### 根据协议内容发送长数据帧前，预约信道
+![输入图片说明](/imgs/2025-07-31/eiWTgPEB3tVMiWSc.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM5ODkzMjksLTc5NTU0Mzg4Nl19
+eyJoaXN0b3J5IjpbLTg1NjMwODIxMiwtNzk1NTQzODg2XX0=
 -->
