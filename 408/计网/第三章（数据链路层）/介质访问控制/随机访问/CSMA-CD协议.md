@@ -24,10 +24,13 @@
 
 ![输入图片说明](/imgs/2025-07-31/TByfDLO0DiPNnaHp.png)
 
+### 最长帧长限制
+![输入图片说明](/imgs/2025-07-31/cWzQLb8LiIlmdM5u.png)
+
 ### 补充
 ![输入图片说明](/imgs/2025-07-31/Lkt8FmMmFmH7Vz1u.png)
-y
+因为CSMA/CD协议用于有线网络传输，其传输率趋于稳定，不考虑干扰情况，则没有冲突=帧完整
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNzM4MTI4LDQ2MjQyNzc0NywxMzk0MD
-kwNTEzLC0xNDA4MjU4OTg4XX0=
+eyJoaXN0b3J5IjpbLTIwMDI2OTUwNzUsNDYyNDI3NzQ3LDEzOT
+QwOTA1MTMsLTE0MDgyNTg5ODhdfQ==
 -->
