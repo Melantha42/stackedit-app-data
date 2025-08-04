@@ -12,12 +12,13 @@
 ![输入图片说明](/imgs/2025-08-04/54VkyqpFNS8sMgJH.png)
 ### 阶码的保存方式
 ![输入图片说明](/imgs/2025-08-04/yKdUAhONGsLGaWmp.png)
-偏置值=2$^n$$^-$$^1$
+#### 偏置值	=	2$^n$$^-$$^1$—1（n是阶码的比特位）
 
 ## double （64bit)
 ![输入图片说明](/imgs/2025-08-04/2xXggVSccur8t9uk.png)
 ![输入图片说明](/imgs/2025-08-04/6x1GRyG4qtHsxm4t.png)
+#### 偏置值	=	2$^n$$^-$$^1$—1（n是阶码的比特位）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTY4OTk3OSwtMTY1MTYzOTQ4OCw0ND
-A5MDU2MTldfQ==
+eyJoaXN0b3J5IjpbODgzODA2MzI1LC0xNjUxNjM5NDg4LDQ0MD
+kwNTYxOV19
 -->
