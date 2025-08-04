@@ -10,10 +10,12 @@
 ![输入图片说明](/imgs/2025-08-04/RqnxalD6WRL4I05z.png)
 ## float
 ![输入图片说明](/imgs/2025-08-04/54VkyqpFNS8sMgJH.png)
+### 阶码的bao
+![输入图片说明](/imgs/2025-08-04/yKdUAhONGsLGaWmp.png)
 
 ## double 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxNTg5MzI3LC0xNjUxNjM5NDg4LDQ0MD
-kwNTYxOV19
+eyJoaXN0b3J5IjpbLTcxMDI4MjQwNiwtMTY1MTYzOTQ4OCw0ND
+A5MDU2MTldfQ==
 -->
