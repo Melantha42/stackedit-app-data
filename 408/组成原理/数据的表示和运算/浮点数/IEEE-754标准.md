@@ -19,8 +19,9 @@
 ![输入图片说明](/imgs/2025-08-04/6x1GRyG4qtHsxm4t.png)
 #### 偏置值	=	2$^n$$^-$$^1$—1（n是阶码的比特位）
 
-##
+### 二进制转化技巧
+![输入图片说明](/imgs/2025-08-04/CNrduMJ53Sjhx7eE.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMxMjAzMzUsODgzODA2MzI1LC0xNj
-UxNjM5NDg4LDQ0MDkwNTYxOV19
+eyJoaXN0b3J5IjpbLTcyOTAwMjUxNSw4ODM4MDYzMjUsLTE2NT
+E2Mzk0ODgsNDQwOTA1NjE5XX0=
 -->
