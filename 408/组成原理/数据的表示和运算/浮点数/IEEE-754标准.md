@@ -8,6 +8,12 @@
 ![输入图片说明](/imgs/2025-08-04/nj7aXfGvoSRZYFn6.png)
 
 ![输入图片说明](/imgs/2025-08-04/RqnxalD6WRL4I05z.png)
+## float
+![输入图片说明](/imgs/2025-08-04/54VkyqpFNS8sMgJH.png)
+
+## double 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE2Mzk0ODgsNDQwOTA1NjE5XX0=
+eyJoaXN0b3J5IjpbNDgxNTg5MzI3LC0xNjUxNjM5NDg4LDQ0MD
+kwNTYxOV19
 -->
