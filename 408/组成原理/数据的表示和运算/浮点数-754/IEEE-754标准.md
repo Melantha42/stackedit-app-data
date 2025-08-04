@@ -16,6 +16,7 @@
 
 ## double （64bit)
 ![输入图片说明](/imgs/2025-08-04/2xXggVSccur8t9uk.png)
+## 阶码
 ![输入图片说明](/imgs/2025-08-04/6x1GRyG4qtHsxm4t.png)
 #### 偏置值	=	2$^n$$^-$$^1$—1（n是阶码的比特位）
 
@@ -25,5 +26,5 @@
 # conclude
 ![输入图片说明](/imgs/2025-08-04/ipMuUDNC8q5OXNxn.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NDU0MDExXX0=
+eyJoaXN0b3J5IjpbMTkwNzE4OTkxNl19
 -->
