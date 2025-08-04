@@ -3,7 +3,8 @@
 ## 科学计数法
 ![输入图片说明](/imgs/2025-08-04/6woiaIutcc4PygFo.png)
 ![输入图片说明](/imgs/2025-08-04/aaLaqsduDRBOnaU5.png)
-
+## 规格化浮点数
+![输入图片说明](/imgs/2025-08-04/6jgenzI5T6w8a989.png)
 ## 浮点数
 ![输入图片说明](/imgs/2025-08-04/nj7aXfGvoSRZYFn6.png)
 
@@ -26,5 +27,5 @@
 # conclude
 ![输入图片说明](/imgs/2025-08-04/ipMuUDNC8q5OXNxn.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzE4OTkxNl19
+eyJoaXN0b3J5IjpbLTExOTczOTI3M119
 -->
