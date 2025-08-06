@@ -21,6 +21,11 @@
 
 
 ![输入图片说明](/imgs/2025-08-06/XTFpw1agGyDqI3J0.png)
+
+- 完整的主存=BIOS+RAM
+
+# CONCLUDE
+![输入图片说明](/imgs/2025-08-06/py1N8A3yXo5SYrvQ.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODkyMDc3NV19
+eyJoaXN0b3J5IjpbLTE1NzMwNzE4OThdfQ==
 -->
