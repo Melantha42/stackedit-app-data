@@ -16,8 +16,14 @@
 ![输入图片说明](/imgs/2025-08-06/KqA4OO69GzjdFsGT.png)
 - 通过译码器输出到指定工作的主存，达成了只扩展主存，不提升效率
 
-![输入图片说明](/imgs/2025-08-06/Ks0hwe7Jgm3aKLwi.png)
+![输入图片说明](/imgs/2025-08-06/rGoYU6fwRhLZOif4.png)
+
+
+## 字位同时扩展法
+![输入图片说明](/imgs/2025-08-06/Mkws8ZtuDgfnvjK5.png)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg3OTYyMjJdfQ==
+eyJoaXN0b3J5IjpbNzk4ODkyNzM2XX0=
 -->
