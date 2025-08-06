@@ -11,7 +11,7 @@
 ### 之后
 ![输入图片说明](/imgs/2025-08-06/NLbsBQbbQre0Vekm.png)
 ![输入图片说明](/imgs/2025-08-06/EIBOQweI0Kbsi1Ms.png)
-## 字扩展
+## 字扩展（译码片选法）
 ![输入图片说明](/imgs/2025-08-06/VOV8qdZyvForaktW.png)
 ![输入图片说明](/imgs/2025-08-06/KqA4OO69GzjdFsGT.png)
 - 通过译码器输出到指定工作的主存，达成了只扩展主存，不提升效率
@@ -24,6 +24,12 @@
 
 
 
+# conclude
+![输入图片说明](/imgs/2025-08-06/TTgcThN0MxJPlVc8.png)
+
+
+## PS
+![输入图片说明](/imgs/2025-08-06/RwDLGcA24EU62pey.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4ODkyNzM2XX0=
+eyJoaXN0b3J5IjpbLTUyOTY1MDFdfQ==
 -->
