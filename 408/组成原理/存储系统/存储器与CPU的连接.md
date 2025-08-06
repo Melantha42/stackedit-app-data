@@ -14,8 +14,8 @@
 ## 字扩展
 ![输入图片说明](/imgs/2025-08-06/VOV8qdZyvForaktW.png)
 ![输入图片说明](/imgs/2025-08-06/KqA4OO69GzjdFsGT.png)
-- 通过译码器输出到指定工作的主存，达成了只扩展主存，bu'ti'shen
+- 通过译码器输出到指定工作的主存，达成了只扩展主存，不提升效率
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDY2NTM1NV19
+eyJoaXN0b3J5IjpbLTQ0MDA3MzE0Nl19
 -->
