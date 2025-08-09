@@ -15,7 +15,9 @@
 ![输入图片说明](/imgs/2025-08-09/hxmoEwXLtqjMLuO1.png)
 ## 对比
 ![输入图片说明](/imgs/2025-08-09/0UJ2FQK66MfezEa7.png)
+## 磨损均衡技术
+![输入图片说明](/imgs/2025-08-09/kKDNPIIQJiEPE1Zt.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTIzNTA1MSwtNTkyMTc1NzIxLDk3Nz
+eyJoaXN0b3J5IjpbMTM5ODQ3NDU0MywtNTkyMTc1NzIxLDk3Nz
 AyNDA1Miw0NDA5MDU2MTldfQ==
 -->
