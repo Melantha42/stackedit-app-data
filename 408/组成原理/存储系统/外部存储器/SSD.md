@@ -3,11 +3,14 @@
 
 ![输入图片说明](/imgs/2025-08-09/5sHed8EetcFhSlwk.png)
 
-# 固态硬盘结构
+# 固态硬盘结构组成
 ![输入图片说明](/imgs/2025-08-09/LUGofQzmrLPs6gP3.png)
+## 闪存翻译层
+![输入图片说明](/imgs/2025-08-09/PifAPnnTDaSyafTB.png)
 ## 存储介质
 闪存芯片组（闪存芯片（数据块（读写页）））
+![输入图片说明](/imgs/2025-08-09/miRKQvuqNFAEWmE2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY2MjI0NTQsOTc3MDI0MDUyLDQ0MD
-kwNTYxOV19
+eyJoaXN0b3J5IjpbLTU5MjE3NTcyMSw5NzcwMjQwNTIsNDQwOT
+A1NjE5XX0=
 -->
