@@ -10,7 +10,9 @@
 ## 存储介质
 闪存芯片组（闪存芯片（数据块（读写页）））
 ![输入图片说明](/imgs/2025-08-09/miRKQvuqNFAEWmE2.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MjE3NTcyMSw5NzcwMjQwNTIsNDQwOT
-A1NjE5XX0=
+eyJoaXN0b3J5IjpbLTIxMzM5MzMzMjUsLTU5MjE3NTcyMSw5Nz
+cwMjQwNTIsNDQwOTA1NjE5XX0=
 -->
