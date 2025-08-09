@@ -11,8 +11,11 @@
 闪存芯片组（闪存芯片（数据块（读写页）））
 ![输入图片说明](/imgs/2025-08-09/miRKQvuqNFAEWmE2.png)
 
-
+## 读写性能
+![输入图片说明](/imgs/2025-08-09/hxmoEwXLtqjMLuO1.png)
+## 对比
+![输入图片说明](/imgs/2025-08-09/0UJ2FQK66MfezEa7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM5MzMzMjUsLTU5MjE3NTcyMSw5Nz
-cwMjQwNTIsNDQwOTA1NjE5XX0=
+eyJoaXN0b3J5IjpbLTM2OTIzNTA1MSwtNTkyMTc1NzIxLDk3Nz
+AyNDA1Miw0NDA5MDU2MTldfQ==
 -->
