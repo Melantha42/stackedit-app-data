@@ -2,7 +2,7 @@
 
 ## 运算器的核心ALU（加法器）
 ![输入图片说明](/imgs/2025-07-28/CgNV2e9ZrgJtCen9.png)
->**PSW寄存器**：程序状态寄存器
+>**PSW寄存器**：程序状态寄存器，可用于OS在管态和用户态之间的切换；
 ### 功能
 ![输入图片说明](/imgs/2025-07-28/Cbi9mJhoJrHJwZxV.png)
 
@@ -17,5 +17,5 @@
 # conclude
 ![输入图片说明](/imgs/2025-07-28/tDStFLf4BlZgABjF.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODQ0NTIwNCwxNDc5NjM0NDM3XX0=
+eyJoaXN0b3J5IjpbMTU0Njg1Mzk4LDE0Nzk2MzQ0MzddfQ==
 -->
