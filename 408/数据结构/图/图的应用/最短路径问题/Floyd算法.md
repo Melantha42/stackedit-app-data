@@ -1,6 +1,6 @@
 
 
-
+# 多源点问题
 # Floyd算法（带权图、无权图）
 
 **动态规划思想：将问题的求解拆分为多个阶段**
@@ -17,5 +17,5 @@ Floyd算法是一个经典的动态规划算法。用通俗的语言来描述的
 
 ![输入图片说明](/imgs/2025-07-07/sie5cNIrNhLIHN50.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTY0MzQyNF19
+eyJoaXN0b3J5IjpbLTE2NzEwMjMyNF19
 -->
