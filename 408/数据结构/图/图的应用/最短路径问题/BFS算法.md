@@ -2,7 +2,7 @@
 
 
 # 最短路径问题
-##  单源最短路劲
+##  单源最短路径
 ### BFS算法（无权图）
 在一棵树中，一个结点到另一个结点的路径是唯一的，但在图中，结点之间可能有多条路径，其中哪条路最近呢？这一类问题称为**最短路径问题**。最短路径问题也是 BFS 的典型应用，而且其方法与层序遍历关系密切。
 
@@ -10,5 +10,5 @@
 
 PS：BFS算法只适用于无权图。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDk1MTExNF19
+eyJoaXN0b3J5IjpbNTg5NDcxMjgsMTQ0MDk1MTExNF19
 -->
