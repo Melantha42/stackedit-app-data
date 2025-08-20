@@ -2,6 +2,9 @@
 
 
 # KMP算法
+
+
+
 例：模式串——t=abcaabbabcab
 求next、nextval数组
 
@@ -21,5 +24,5 @@ t      ——     a b c a a b b a b c a b
   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA1MzQ1MjgsMTMzMjg2NDY4Nl19
+eyJoaXN0b3J5IjpbLTEwODI4NjA1NTQsMTMzMjg2NDY4Nl19
 -->
