@@ -43,6 +43,9 @@ if 这条边连接的两个节点于图Graphnew中不在同一个连通分量中
 时间复杂度：
 e为图中的边数	
 elog$_2$e   
+
+
+![输入图片说明](/imgs/2025-08-20/xgHWBcDVIZ5yDzmo.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwMjQ5MTE5XX0=
+eyJoaXN0b3J5IjpbMTc3MjEyMzc4Myw0NzAyNDkxMTldfQ==
 -->
