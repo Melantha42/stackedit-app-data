@@ -1,6 +1,6 @@
 
 
-
+# 单源点问题
 # 迪杰斯科拉（Dijkstra）算法（带权图、无权图）
 
 是BFS算法的升级版，用于处理带权图的最短路径问题，通过构造三个数组分别表示顶点（访问与否）、最短路径长度（结合该路径的前驱）、路径前驱标记。
@@ -24,5 +24,5 @@
 ![输入图片说明](/imgs/2025-07-07/S9UFKOfVy39FO2Lt.jpeg)
 - 当带权图中出现负权值路径，且该路径遍历轮次在另一正值路径之后，则会出现非最短路径长度，因此，**Dijkstra算法不适应于含有负权值路径的带权图**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTQ2ODg3NF19
+eyJoaXN0b3J5IjpbMjY0MDU4MDEzLC0zNjk0Njg4NzRdfQ==
 -->
