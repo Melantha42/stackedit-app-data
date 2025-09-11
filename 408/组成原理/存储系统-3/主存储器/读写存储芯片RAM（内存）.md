@@ -1,0 +1,45 @@
+
+
+# 对立统一（DRAM/SRAM）
+![输入图片说明](/imgs/2025-08-06/2ornrJQ7AHT55Cdn.png)
+## 存储元（区别）
+![输入图片说明](/imgs/2025-08-06/zgGyI80svi9DRynu.png)
+## 栅极电容
+![输入图片说明](/imgs/2025-08-06/61hI39L7t3zntSO5.png)
+
+- 破坏性读出：
+![输入图片说明](/imgs/2025-08-06/WvbnEjk7byG2hrVD.png)
+- 导致读写更慢
+- 制造成本更低
+- 体积更小
+- 功耗更低
+
+### 刷新
+![输入图片说明](/imgs/2025-08-06/kRZnKrvc8Xo5g7FV.png)
+
+#### 矩阵存储单元
+- 行列地址，由一维地址升为二维地址；如今有三维地址；可以减少译码器通线根数，提升工程可行性
+
+![输入图片说明](/imgs/2025-08-06/D17GZB9w0yjjm3i0.png)
+#### 如何刷新
+![输入图片说明](/imgs/2025-08-06/mBzjqigYwaStkbrj.png)
+### 地址线复用技术
+![输入图片说明](/imgs/2025-08-06/U7uRzfNfO1lqIChx.png)
+
+
+## 双稳态触发器
+![输入图片说明](/imgs/2025-08-06/RT9EkoRbN5T8Ovz5.png)
+![输入图片说明](/imgs/2025-08-06/S3mIJDWXplndrEgU.png)
+非破坏性读出：
+![输入图片说明](/imgs/2025-08-06/2o2mjJ8fTZ1lJzxN.png)
+- 读写更快
+- 制造成本更高
+- 体积更大
+- 功耗更高
+- 只要通电不用刷新
+
+## conclude
+![输入图片说明](/imgs/2025-08-06/DpzZ0xjqTuXn6cIK.png)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MjIzNjYwNjVdfQ==
+-->
