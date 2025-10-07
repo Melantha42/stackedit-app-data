@@ -5,8 +5,8 @@
 
 - **组相联映射**：![输入图片说明](/imgs/2025-10-06/39y0ZTI7QPxjriqG.png)
 
-- **直接映射**考点： 
+- **直接映射**考点：索引位数=log$_2$(Cache行数) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDM3NTQ0Nyw1MzIwNDAwMTIsLTMxOD
-Q5NzMxOF19
+eyJoaXN0b3J5IjpbLTEzMzE1ODI2OTAsNTMyMDQwMDEyLC0zMT
+g0OTczMThdfQ==
 -->
